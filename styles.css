@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+.gridImg{
+    display: grid;
+    grid-template-columns: 470px 470px 470px;
+    grid-template-rows: 255px 255px 255px;
+}
+img{
+    height: 230px;
+    width: 400px;
+}
